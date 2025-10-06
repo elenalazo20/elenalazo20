@@ -23,7 +23,7 @@ I’m refining my dissertation focus. I like building **reproducible** analyses 
 
 ### A bit more
 I share life with:
-- 🇦🇷 a lovely Argentine (and lots of mate 🧉)
+- a lovely Argentine (and lots of mate 🧉)
 - 🐶 **Gus** — a grumpy old gentleman (very loved)
 - 🐱 **Clara** — the undisputed queen of the house
 
