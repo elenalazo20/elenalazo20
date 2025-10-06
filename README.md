@@ -1,36 +1,37 @@
-```md
-# Hi — I'm Elena Lazo 👋
+# Hi — I'm Elena Lazo
 
-**Epidemiology PhD student @ PUC Chile**  
-*New to GitHub and learning in public.* Still shaping my thesis idea, with interests in **environmental pollution** and **implementation science (CFIR/EPIS)**.
+Epidemiology PhD student @ PUC Chile.  
+New to GitHub and **learning in public** while I shape my thesis.  
+Interests: **environmental pollution** and **implementation science (CFIR/EPIS)**.
+
+---
 
 ### Why I'm here
-I started using GitHub thanks to a course called **“Análisis y visualización de datos medioambientales”** (Analysis & Visualization of Environmental Data). My professor actively teaches with GitHub — you can find them here: [@Saryace](https://github.com/Saryace). I’m documenting my learning journey openly.
+I started using GitHub thanks to a course called **“Análisis y visualización de datos medioambientales”**  
+(Analysis & Visualization of Environmental Data). The instructor works with GitHub — find them here: [@Saryace](https://github.com/Saryace).  
+I’m documenting my learning journey openly.
 
 ### Currently learning
-- **Quarto** (reproducible reports & sites)  
-- **Git & GitHub** (version control, issues, PRs)  
-- **QGIS** for maps (basic spatial workflows)
+- Quarto (reproducible reports & simple sites)
+- Git & GitHub (branches, commits, PRs, issues)
+- QGIS (basic mapping workflows)
 
-## About me
-I’m refining the focus of my dissertation. My work bridges **air-pollution and public-health policy evaluation** with **implementation science** (CFIR/EPIS, Proctor outcomes). I build **reproducible research** with **R** and **Quarto** using **Git/GitHub**.
+### About me
+I’m refining my dissertation focus. I like building **reproducible** analyses in **R + Quarto** and applying implementation frameworks (CFIR/EPIS) to public-health questions — especially air-pollution and program evaluation.
 
-- 🔭 Current interests: PM2.5 health impacts, program evaluation of clean-air initiatives, implementation outcomes & equity.  
-- 🧪 Methods: time-series/ITS basics, mixed-methods (interviews + admin data).  
-- 🛠️ Tools: **R**, **Quarto**, **Git/GitHub**, **QGIS** (maps).
+---
 
-## A bit more
+### A bit more
 I share life with:
 - 🇦🇷 a lovely Argentine (and lots of mate 🧉)
 - 🐶 **Gus** — a grumpy old gentleman (very loved)
 - 🐱 **Clara** — the undisputed queen of the house
 
-## Links
-- 🎓 ORCID: [0000-0003-3339-7422](https://orcid.org/0000-0003-3339-7422)  
-- 💼 LinkedIn: [Elena Lazo](https://www.linkedin.com/in/elena-lazo-147574145/)  
-- ✉️ Contact: **elazol@estudiante.uc.cl**
+---
 
-> Feedback is welcome — I’m new here and happy to learn.
-```
+### Links
+- ORCID: [0000-0003-3339-7422](https://orcid.org/0000-0003-3339-7422)  
+- LinkedIn: [Elena Lazo](https://www.linkedin.com/in/elena-lazo-147574145/)  
+- Email: **elazol@estudiante.uc.cl**
 
-¿Quieres que además te deje una **versión en español** o una versión **aún más minimalista**?
+> Feedback is welcome — I'm new here and happy to learn.
