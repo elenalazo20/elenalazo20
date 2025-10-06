@@ -1,6 +1,6 @@
 # Hi — I'm Elena
 
-Epidemiology PhD student @ PUC Chile.  
+Epidemiology PhD student @PUC Chile.  
 New to GitHub and **learning in public** while I shape my thesis.  
 Interests: **environmental pollution** and **implementation science (CFIR/EPIS)**.
 
