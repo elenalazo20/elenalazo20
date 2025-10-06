@@ -1,4 +1,4 @@
-# Hi — I'm Elena Lazo
+# Hi — I'm Elena
 
 Epidemiology PhD student @ PUC Chile.  
 New to GitHub and **learning in public** while I shape my thesis.  
