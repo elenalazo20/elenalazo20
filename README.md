@@ -1,4 +1,4 @@
-# Hi — I'm Elena
+# Hi! I'm Elena
 
 Epidemiology PhD student @PUC Chile.  
 New to GitHub and **learning in public** while I shape my thesis.  
@@ -24,8 +24,8 @@ I’m refining my dissertation focus. I like building **reproducible** analyses 
 ### A bit more
 I share life with:
 - a lovely Argentine (and lots of mate 🧉),
-- 🐶 **Gus** — a grumpy old gentleman (very loved) and
-- 🐱 **Clara** — the undisputed queen of the house
+- 🐶 **Gus** - a grumpy old gentleman (very loved) and
+- 🐱 **Clara** - the undisputed queen of the house
 
 ---
 
