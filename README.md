@@ -2,7 +2,7 @@
 
 Epidemiology PhD student @PUC Chile.  
 New to GitHub and **learning in public** while I shape my thesis.  
-Interests: **environmental pollution** and **implementation science (CFIR/EPIS)**.
+Interests: **environmental pollution** and **implementation science**.
 
 ---
 
